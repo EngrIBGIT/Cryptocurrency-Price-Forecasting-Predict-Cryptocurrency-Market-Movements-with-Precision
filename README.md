@@ -1,6 +1,6 @@
 # Cryptocurrency Price Forecasting: Predict Cryptocurrency Market Movements with Precision
 
-![]()
+![](title1.jpg)
 
 To forecast/predict the price of cryptocurrency, to see the future prices by applying machine learning.
 Observe the market and be prepared for the twists and turns
@@ -105,4 +105,9 @@ B. 	Pandas: Data munging and manipulation
 C. 	Matplotlib and Seaborn: Data Visualization
 D. 	Statsmodels: Statistical analysis and simple machine learning
 
+![](ProjectScope.PNG)
 
+
+## The Below Link is The code showing the analysis, insights and machine learning
+
+https://github.com/EngrIBGIT/Cryptocurrency-Price-Forecasting-Predict-Cryptocurrency-Market-Movements-with-Precision/blob/main/cryptocurrency_price_forecasting_with_machine_learning.py
