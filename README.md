@@ -58,6 +58,7 @@ C.	Client Demand: Investors were increasingly interested in cryptocurrencies, an
  
 D.	 Competitive Edge: Successful cryptocurrency price prediction would give the firm a competitive edge in the rapidly evolving financial landscape.
 
+![](title3.jpg)
 
 ## Aim of the Project
 The aims of the project are:
@@ -69,8 +70,6 @@ C. 	Model Understanding: Observe the trained model for understanding of importan
 
 ## Data Description:
 The requirement for the dataset include:
-
- 
 
 -	Cryptocurrency name and symbol: Identifiers of the cryptocurrency of interest.
 -	Open & Close Prices: Prices at the open and close hours of the trading session.
@@ -111,3 +110,5 @@ D. 	Statsmodels: Statistical analysis and simple machine learning
 ## The Below Link is The code showing the analysis, insights and machine learning
 
 [[https://github.com/EngrIBGIT/Cryptocurrency-Price-Forecasting-Predict-Cryptocurrency-Market-Movements-with-Precision/blob/main/cryptocurrency_price_forecasting_with_machine_learning.py](https://github.com/EngrIBGIT/Cryptocurrency-Price-Forecasting-Predict-Cryptocurrency-Market-Movements-with-Precision/blob/main/Cryptocurrency_Price_Forecasting_with_Machine_Learning.ipynb)](https://github.com/EngrIBGIT/Cryptocurrency-Price-Forecasting-Predict-Cryptocurrency-Market-Movements-with-Precision/blob/main/Cryptocurrency_Price_Forecasting_with_Machine_Learning.ipynb)
+
+![](title4.jpeg)
